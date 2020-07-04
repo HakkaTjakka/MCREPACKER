@@ -1,7 +1,7 @@
 # MCREPACKER
 Minecraft region file repacker
 
-Repacks / compresses / lists Minecraft r.*.*.mca region files (nbt files)
+Repacks / compresses / lists Minecraft r.x.z.mca region files (nbt files)
 
 Source code:
 https://github.com/HakkaTjakka/MinecraftWorldEditor
